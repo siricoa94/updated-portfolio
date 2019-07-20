@@ -19,8 +19,7 @@
 #movieApp {
     position: absolute;
     width: 40%;
-    height: 40%;
-    top: 280%;
+    top: 275%;
     left: 30%;
 
 }
@@ -51,7 +50,7 @@
 }
 #movieText {
     position: absolute;
-    top: 325%;
+    top: 320%;
     text-align: center;
     width: 90%;
     left: 5%;
