@@ -1,1 +1,3 @@
 # updated-portfolio
+
+This is the most up to date version of my portfolio as of July 20th 2019. Revisions may be made after this date, but this is a good reference point in understanding when this portfolio was first made, and when it may become irrelevant in the future. The objective of this portfolio is to showcase some of the skills I have developed throughout my time at the Rutger's Bootcamp as well as to follow my development through my career. Links to my resume, Github page, and relevant work are all displayed in different tabs on the page. Although basic as far as astetic design goes, the functionality is solid.
